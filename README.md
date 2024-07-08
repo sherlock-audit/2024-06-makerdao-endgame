@@ -8,3 +8,16 @@
 # Q&A
 
 # Audit scope
+
+
+[dss-flappers @ b2e2ed17554b887cee517daa8d3e0d2f841b4871](https://github.com/makerdao/dss-flappers/tree/b2e2ed17554b887cee517daa8d3e0d2f841b4871)
+- [dss-flappers/deploy/FlapperDeploy.sol](dss-flappers/deploy/FlapperDeploy.sol)
+- [dss-flappers/deploy/FlapperInit.sol](dss-flappers/deploy/FlapperInit.sol)
+- [dss-flappers/deploy/SplitterInstance.sol](dss-flappers/deploy/SplitterInstance.sol)
+- [dss-flappers/src/Babylonian.sol](dss-flappers/src/Babylonian.sol)
+- [dss-flappers/src/FlapperUniV2.sol](dss-flappers/src/FlapperUniV2.sol)
+- [dss-flappers/src/FlapperUniV2SwapOnly.sol](dss-flappers/src/FlapperUniV2SwapOnly.sol)
+- [dss-flappers/src/OracleWrapper.sol](dss-flappers/src/OracleWrapper.sol)
+- [dss-flappers/src/Splitter.sol](dss-flappers/src/Splitter.sol)
+- [dss-flappers/src/SplitterMom.sol](dss-flappers/src/SplitterMom.sol)
+
