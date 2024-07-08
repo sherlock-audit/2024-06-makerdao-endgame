@@ -96,6 +96,7 @@ After cloning the repo, run:
 yarn install
 # 2. Install Foundry dependencies
 forge update
+forge install
 ```
 
 ### Build
