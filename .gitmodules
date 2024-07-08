@@ -46,3 +46,12 @@
 [submodule "sdai/lib/openzeppelin-foundry-upgrades"]
 	path = sdai/lib/openzeppelin-foundry-upgrades
 	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+[submodule "univ2-pool-migrator/lib/forge-std"]
+	path = univ2-pool-migrator/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "univ2-pool-migrator/lib/ngt"]
+	path = univ2-pool-migrator/lib/ngt
+	url = https://github.com/makerdao/ngt
+[submodule "univ2-pool-migrator/lib/nst"]
+	path = univ2-pool-migrator/lib/nst
+	url = https://github.com/makerdao/nst
