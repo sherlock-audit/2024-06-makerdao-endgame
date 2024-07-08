@@ -7,3 +7,6 @@
 [submodule "lockstake/lib/token-tests"]
 	path = lockstake/lib/token-tests
 	url = https://github.com/makerdao/token-tests/
+[submodule "ngt/lib/token-tests"]
+	path = ngt/lib/token-tests
+	url = https://github.com/makerdao/token-tests
