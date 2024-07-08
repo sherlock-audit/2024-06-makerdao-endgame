@@ -25,3 +25,12 @@
 [submodule "endgame-toolkit/lib-0_6_x/dss-vest"]
 	path = endgame-toolkit/lib-0_6_x/dss-vest
 	url = https://github.com/makerdao/dss-vest.git
+[submodule "nst/lib/token-tests"]
+	path = nst/lib/token-tests
+	url = https://github.com/makerdao/token-tests
+[submodule "nst/lib/openzeppelin-contracts-upgradeable"]
+	path = nst/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "nst/lib/openzeppelin-foundry-upgrades"]
+	path = nst/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
