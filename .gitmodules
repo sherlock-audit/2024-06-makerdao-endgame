@@ -1,0 +1,3 @@
+[submodule "dss-flappers/lib/dss-test"]
+	path = dss-flappers/lib/dss-test
+	url = https://github.com/makerdao/dss-test
