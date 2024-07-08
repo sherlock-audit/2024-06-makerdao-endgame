@@ -34,3 +34,15 @@
 [submodule "nst/lib/openzeppelin-foundry-upgrades"]
 	path = nst/lib/openzeppelin-foundry-upgrades
 	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+[submodule "sdai/lib/token-tests"]
+	path = sdai/lib/token-tests
+	url = https://github.com/makerdao/token-tests
+[submodule "sdai/lib/erc4626-tests"]
+	path = sdai/lib/erc4626-tests
+	url = https://github.com/a16z/erc4626-tests
+[submodule "sdai/lib/openzeppelin-contracts-upgradeable"]
+	path = sdai/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "sdai/lib/openzeppelin-foundry-upgrades"]
+	path = sdai/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
