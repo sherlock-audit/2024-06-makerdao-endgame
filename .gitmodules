@@ -1,3 +1,6 @@
 [submodule "dss-flappers/lib/dss-test"]
 	path = dss-flappers/lib/dss-test
 	url = https://github.com/makerdao/dss-test
+[submodule "vote-delegate/lib/dss-test"]
+	path = vote-delegate/lib/dss-test
+	url = https://github.com/makerdao/dss-test
